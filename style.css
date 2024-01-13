@@ -10,7 +10,7 @@ body {
 section {
     background-color: white; /* white background for the text section */
     padding: 20px; /* padding inside the section */
-    margin: 20px 0; /* space above and below the section */
+    margin: 20% 0; /* space above and below the section */
     box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.05); /* subtle shadow for the section */
 }
 
